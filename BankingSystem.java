@@ -42,17 +42,17 @@ class BankingSystem{
         a=sc.nextInt();
 
         if (a==y){
-            System.out.println("Yash S. Ratnaparkhi");
+            System.out.println("Lalit Morwani");
             ban.balence=67000;
             System.out.println("Balance:"+ban.balence);
         }
         else if (a==yu){
-            System.out.println("          Yugal V. Sonparate");
+            System.out.println("          Swaraj Lakhe");
             ban.balence=68000;
             System.out.println("          Balance:"+ban.balence);
         }
         else if (a==j){
-            System.out.println("          Janhavi Molkar");
+            System.out.println("          Pushkar Wankhede");
             ban.balence=104530;
             System.out.println("          Balance:"+ban.balence);
         }
